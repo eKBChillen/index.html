@@ -1,16 +1,16 @@
-@import 'bootstrap/functions';
-@import 'theme/functions';
-@import 'user-variables';
-@import 'theme/variables';
-@import 'bootstrap/variables';
-@import 'bootstrap/bootstrap';
+@import './bootstrap/functions';
+@import './theme/functions';
+@import './user-variables';
+@import './theme/variables';
+@import './bootstrap/variables';
+@import './bootstrap/bootstrap';
 
 /*-----------------------------------------------
 |   Theme Styles
 -----------------------------------------------*/
-@import 'theme/theme';
+@import './theme/theme';
 
 /*-----------------------------------------------
 |   User Styles
 -----------------------------------------------*/
-@import 'user';
+@import './user';
